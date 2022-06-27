@@ -1,4 +1,4 @@
-# Weather web application created by Huseyn Yusifov
+# a Weather web application built by me using Weather API, React Hooks, and Material UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
